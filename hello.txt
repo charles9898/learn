@@ -1,2 +1,2 @@
-hello,gitlear!
-changed!
+hello,my first push 
+secold push
